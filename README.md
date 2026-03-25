@@ -126,12 +126,6 @@ The dashboard will open in your browser at `http://localhost:8501`.
 **Scenario:** Scenario 1 — Beyond Discounts: Data-Driven Black Friday Sales Insights  
 **Marks:** 60
 
-**Learning outcomes demonstrated:**
-- Clustering techniques (K-Means) for customer segmentation
-- Association rule mining (Apriori) for cross-selling discovery
-- Anomaly detection (Z-Score & IQR) for outlier identification
-- Interactive dashboard deployment using Streamlit
-
 ---
 
 ## 📄 License
