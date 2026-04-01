@@ -1,3 +1,7 @@
+# Streamlit App Link
+
+
+
 # 🛍️ Black Friday Sales Intelligence Dashboard
 
 > **InsightMart Analytics** | Data Mining Year 1 Summative Assessment  
@@ -116,18 +120,3 @@ The dashboard will open in your browser at `http://localhost:8501`.
 | `matplotlib` / `seaborn` | Data visualisation |
 | `scikit-learn` | K-Means clustering, scaling, silhouette scoring |
 | `scipy` | Z-Score anomaly detection |
-
----
-
-## 📚 Academic Context
-
-**Course:** Data Mining (Year 1 Summative Assessment)  
-**Assignment:** Mining the Future: Unlocking Business Intelligence with AI  
-**Scenario:** Scenario 1 — Beyond Discounts: Data-Driven Black Friday Sales Insights  
-**Marks:** 60
-
----
-
-## 📄 License
-
-This project was developed for academic purposes as part of a university Data Mining assessment.
